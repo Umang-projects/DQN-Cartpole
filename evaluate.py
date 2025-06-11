@@ -47,3 +47,9 @@ def evaluate_and_record():
     # --- Save the GIF ---
     imageio.mimsave('cartpole_demo.gif', frames, fps=30)
     print("Evaluation GIF saved to cartpole_demo.gif")
+
+
+# --- 5. Main Execution ---
+if __name__ == "__main__":
+    train()
+    evaluate_and_record()
