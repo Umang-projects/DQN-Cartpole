@@ -1,0 +1,8 @@
+# Core RL and ML Libraries
+torch==2.0.1
+gymnasium[box2d]==0.28.1
+numpy==1.23.5
+
+# Utilities for plotting and recording
+matplotlib==3.7.1
+imageio==2.26.0
