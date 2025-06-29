@@ -35,3 +35,8 @@ The training process uses an epsilon-greedy strategy for action selection, with 
 ### 2: Install dependencies: Install dependencies: pip install -r requirements.txt
 ### 3: Train a new model: python train.py
 ### 4: Watch the trained agent play: python evaluate.py
+
+## 🎥 CartPole Demo
+
+![CartPole Demo](https://raw.githubusercontent.com/Umang-projects/DQN-Cartpole/main/cartpole_demo.gif)
+
